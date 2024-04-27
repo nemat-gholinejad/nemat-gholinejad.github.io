@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "MSc Student"
   location         : "Tehran, Iran"
-  employer         : "Red Brick University"
+  employer         : "Amirkabir University of Technology"
   uri              : # URL
   email            : "gholinezhad1997@gmail.com" 
 
@@ -34,8 +34,8 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : nemat--gholinejad # Username
+  linkedin         : nemat--gholinejad
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : NematGholinejad # Username for X / Twitter
+  twitter          : NematGholinejad
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
