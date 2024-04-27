@@ -7,56 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Are you interested in collaborating with me?
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+If you are interested in collaboration, do let me know and I will be happy to share and cooperate on more ideas on information retrieval, natural language processing, and recommender systems. You can contact me with my email <a href="mailto:n.gholinezhad@aut.ac.ir">n.gholinezhad@aut.ac.ir</a>.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Student(s)
+I had the chance to work with the following student(s) in different capacities:
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#### Advisee(s):
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- <a href="https://www.linkedin.com/in/mj-zandiyeh/" target="_blank">Mohammad Javad Zandiyeh</a>, Supervisor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8Hhu1Q8AAAAJ">Prof. Mostafa Chehreghani</a>), AUT BSc (2024)
+
