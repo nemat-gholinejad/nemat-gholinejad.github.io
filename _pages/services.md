@@ -7,8 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-Academic services
-======
-* Journal Reviewer:
-  * Social Network Analysis and Mining
-  * Applied Intelligence
+<h2>Academic services</h2>
+<hr>
+<ul>
+ <li>Journal Reviewer</li>
+
+<ul>
+    <li>Social Network Analysis and Mining</li>
+    <li>Applied Intelligence</li>
+</ul>
+</ul>
