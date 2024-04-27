@@ -16,5 +16,5 @@ I had the chance to work with the following student(s) in different capacities:
 
 #### Advisee(s):
 
-- <a href="https://www.linkedin.com/in/mj-zandiyeh/" target="_blank">Mohammad Javad Zandiyeh</a>, Supervisor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8Hhu1Q8AAAAJ">Prof. Mostafa Chehreghani</a>), AUT BSc (2024)
+- <a href="https://www.linkedin.com/in/mj-zandiyeh/" target="_blank">Mohammad Javad Zandiyeh</a>, Supervisor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8Hhu1Q8AAAAJ">Prof. Mostafa Chehreghani</a>, AUT BSc (2024)
 
